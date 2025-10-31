@@ -15,6 +15,14 @@ The main purpose is to demonstrate:
 * Use of **Regular Expressions** to search and filter logs
 * Managing metadata and logs **without any database**
 
+## Task Distribution
+
+**Team 7**
+1. Nawshad Fahim MDT 7216629 (FileManager.java)
+
+2. Ibrahim Khalil MDT 7213232 (TaskSimulator.java, ResourceManager.java, RegexSearch.java)
+
+3. Raju Naidu MDT 7213668 (Main.java, LogService.java, LogRecord.java)
 
 ## 🧠 Core Features
 
